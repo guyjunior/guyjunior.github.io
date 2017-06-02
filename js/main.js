@@ -34,7 +34,6 @@ function preload() {
 	game.load.spritesheet('tux', 'res/sprite_teste.png', 67, 85, 6);
 	game.load.spritesheet('flyer_fan', 'res/fan_flyers.png', 69.5, 49, 6);
 	game.load.image('flyer_gap', 'res/flyergap.png');
-	game.load.image('languages', 'res/languages.png');
 	game.load.image('fundo', 'res/background02.jpg');
 	game.load.image('sign', 'res/sign.png');
 	game.load.image('profile', 'res/profile_icon.png');
